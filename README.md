@@ -8,11 +8,11 @@ Full Stack Developer — I build fast, scalable web applications from frontend t
 
 **Frontend** &nbsp; React · Next.js · TypeScript
 
-**Backend** &nbsp; Node.js · Express · REST / GraphQL
+**Backend** &nbsp; Node.js · Express · REST 
 
 **Database** &nbsp; PostgreSQL · MongoDB
 
-**Infrastructure** &nbsp; Docker · Kubernetes · GitHub Actions
+**Infrastructure** &nbsp; Docker 
 
 ---
 
