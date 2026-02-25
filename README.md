@@ -1,17 +1,28 @@
-## Hi there 👋
+# Hi, I'm siricmd 👋
 
+Full Stack Developer — I build fast, scalable web applications from frontend to infrastructure.
 
-<!--
-**siricmd/siricmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🔧 Tech Stack
 
+**Frontend** &nbsp; React · Next.js · TypeScript
+
+**Backend** &nbsp; Node.js · Express · REST / GraphQL
+
+**Database** &nbsp; PostgreSQL · MongoDB
+
+**Infrastructure** &nbsp; Docker · Kubernetes · GitHub Actions
+
+---
+
+### 📊 Stats
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=siricmd&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default&hide=prs" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siricmd&layout=compact&hide_border=true&theme=default&langs_count=6" />
+
+---
+
+### 📫 Contact
+
+[LinkedIn](https://linkedin.com/in/siricmd) &nbsp;·&nbsp; [Portfolio](https://siricmd.dev) &nbsp;·&nbsp; [Email](mailto:siricmd@gmail.com)
