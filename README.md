@@ -1,4 +1,4 @@
-# Hi, I'm siricmd 👋
+# Hi, I'm Sirimongkol Nakkrut 👋
 
 Full Stack Developer — I build fast, scalable web applications from frontend to infrastructure.
 
