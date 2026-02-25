@@ -1,28 +1,102 @@
-# Hi, I'm Sirimongkol Nakkrut 👋
+<div align="center">
 
-Full Stack Developer — I build fast, scalable web applications from frontend to infrastructure.
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff6b6b,30:ffd93d,60:6bcb77,100:4d96ff&height=220&section=header&text=siricmd&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer%20%F0%9F%9A%80&descAlignY=62&descColor=ffffff&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" />
 
----
+<br/>
 
-### 🔧 Tech Stack
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=800&color=FF6B6B&center=true&vCenter=true&width=550&lines=React+%2B+Next.js+%E2%9A%A1+TypeScript;Node.js+%2B+Express+%F0%9F%94%A5;PostgreSQL+%2B+MongoDB+%F0%9F%97%84%EF%B8%8F;Docker+%2B+Kubernetes+%F0%9F%90%B3;Building+cool+stuff+every+day+%F0%9F%8E%89)](https://git.io/typing-svg)
 
-**Frontend** &nbsp; React · Next.js · TypeScript
+<br/>
 
-**Backend** &nbsp; Node.js · Express · REST 
+![Profile Views](https://komarev.com/ghpvc/?username=siricmd&style=flat-square&color=ff6b6b&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/siricmd?style=flat-square&color=6bcb77&label=Followers)
 
-**Database** &nbsp; PostgreSQL · MongoDB
-
-**Infrastructure** &nbsp; Docker 
-
----
-
-### 📊 Stats
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=siricmd&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default&hide=prs" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siricmd&layout=compact&hide_border=true&theme=default&langs_count=6" />
+</div>
 
 ---
 
-### 📫 Contact
+<div align="center">
 
-[LinkedIn](https://linkedin.com/in/siricmd) &nbsp;·&nbsp; [Portfolio](https://siricmd.dev) &nbsp;·&nbsp; [Email](mailto:siricmd@gmail.com)
+## 🌈 About Me
+
+</div>
+
+```js
+const siricmd = {
+  role:      "🧑‍💻 Full Stack Developer",
+  location:  "🇹🇭 Thailand",
+  passion:   "⚡ Turning ideas into real products",
+  currently: "🔨 Building something awesome...",
+  learning:  ["☁️ Cloud Architecture", "🤖 AI Integration"],
+  hobbies:   ["💻 Coding", "🎮 Gaming", "☕ Coffee"]
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-6BCB77?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-FFD93D?style=for-the-badge&logo=express&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 🗄️ Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4D96FF?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-6BCB77?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF6B6B?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🚀 DevOps
+![Docker](https://img.shields.io/badge/Docker-4D96FF?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-FFD93D?style=for-the-badge&logo=githubactions&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=siricmd&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=radical&border_radius=12" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siricmd&layout=compact&hide_border=false&theme=radical&langs_count=6&border_radius=12" />
+
+<img src="https://streak-stats.demolab.com?user=siricmd&theme=radical&border_radius=12&date_format=j%20M%5B%20Y%5D" />
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=siricmd&theme=radical&no-frame=false&row=1&column=7&margin-w=8" />
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siricmd)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://siricmd.dev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/siricmd)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siricmd@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,30:ffd93d,60:6bcb77,100:4d96ff&height=130&section=footer&fontColor=ffffff" width="100%" />
+
+</div>
