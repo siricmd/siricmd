@@ -65,23 +65,40 @@ const siricmd = {
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 What I'm Working On
+
+| 🔨 Project | 📝 Description | 🛠️ Stack |
+|---|---|---|
+| **Project Alpha** | Scalable REST API with auth & rate limiting | Node.js · PostgreSQL · Docker |
+| **Dashboard UI** | Real-time analytics dashboard | Next.js · TypeScript · WebSocket |
+| **CLI Tool** | Developer productivity tool | Node.js · TypeScript |
+
+---
+
+## 📚 Currently Learning
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=siricmd&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=radical&border_radius=12" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siricmd&layout=compact&hide_border=false&theme=radical&langs_count=6&border_radius=12" />
-
-<img src="https://streak-stats.demolab.com?user=siricmd&theme=radical&border_radius=12&date_format=j%20M%5B%20Y%5D" />
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-FF6B6B?style=for-the-badge&logo=rust&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 Trophies
+## 💡 Dev Philosophy
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=siricmd&theme=radical&no-frame=false&row=1&column=7&margin-w=8" />
+
+| | |
+|:---:|:---:|
+| 🧹 **Clean Code** | Write code for humans first |
+| 🚢 **Ship Fast** | Done > Perfect |
+| 🔁 **Iterate** | Build → Measure → Learn |
+| 🤝 **Collaborate** | Great products are team efforts |
+
 </div>
 
 ---
